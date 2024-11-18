@@ -15,7 +15,7 @@ public class Main {
 
         factory.buildCar(car1);
         factory.buildCar(car2);
-
+        System.out.println("main branch!");
     }
 }
 
